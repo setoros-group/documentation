@@ -5,17 +5,17 @@
  */
 
 @font-face {
-    font-family: "Roboto";
-    src: url("/static/fonts/Roboto-Regular.ttf") format("truetype");
+    font-family: "Inter";
+    src: url("/static/fonts/Inter-Regular.ttf") format("truetype");
 }
 
 
 
 /* You can override the default Infima variables here. */
 :root {
-  --font-family: "Roboto";
-  --ifm-font-family-monospace: "Roboto";
-  --ifm-font-family-base: "Roboto";
+  --font-family: "Inter";
+  --ifm-font-family-monospace: "Inter";
+  --ifm-font-family-base: "Inter";
   --ifm-color-primary: #589de0;
   --ifm-color-primary-dark: #3e8edb;
   --ifm-color-primary-darker: #3186d9;

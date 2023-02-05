@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Lucky Rebels',
+  title: 'Lucky Snake',
   staticDirectories: ['static'],
   tagline: '',
-  url: 'https://docs.luckyrebels.xyz',
+  url: 'https://docs.luckysnake.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'lucky-rebels', // Usually your GitHub org/user name.
+  organizationName: 'lucky-snake', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
 
   presets: [
@@ -45,9 +45,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Lucky Rebels',
+        title: 'Lucky Snake',
         logo: {
-          alt: 'Lucky Rebels Logo',
+          alt: 'Lucky Snake Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -89,7 +89,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/luckyrebels',
+                href: 'https://twitter.com/luckysnake',
               },
             ],
           },
@@ -98,16 +98,16 @@ const config = {
             items: [
               {
                 label: 'Website',
-                to: 'https://luckyrebels.xyz'
+                to: 'https://luckysnake.xyz'
               },
               {
                 label: 'Blog',
-                to: 'https://blog.luckyrebels.xyz',
+                to: 'https://blog.luckysnake.xyz',
               }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Lucky Rebels`,
+        copyright: `Copyright © ${new Date().getFullYear()} Lucky Snake`,
       },
       prism: {
         theme: lightCodeTheme,

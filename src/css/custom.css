@@ -16,13 +16,13 @@
   --font-family: "Inter";
   --ifm-font-family-monospace: "Inter";
   --ifm-font-family-base: "Inter";
-  --ifm-color-primary: #589de0;
-  --ifm-color-primary-dark: #3e8edb;
-  --ifm-color-primary-darker: #3186d9;
-  --ifm-color-primary-darkest: #226eb8;
-  --ifm-color-primary-light: #72ace5;
-  --ifm-color-primary-lighter: #7fb4e7;
-  --ifm-color-primary-lightest: #a7cbef;
+  --ifm-color-primary: #4A6FD4;
+  --ifm-color-primary-dark: #2F57C6;
+  --ifm-color-primary-darker: #2748A5;
+  --ifm-color-primary-darkest: #172B63;
+  --ifm-color-primary-light: #6A89DC;
+  --ifm-color-primary-lighter: #8BA3E4;
+  --ifm-color-primary-lightest: #ACBDEC;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */

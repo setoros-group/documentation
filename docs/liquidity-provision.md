@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Liquidity Provision
@@ -20,7 +20,7 @@ Lucky Snake takes a small shift in mindset to create a fundamentally different a
 
 The $SNEKPOOL LP token acts a central treasury for all open *Betting Markets*, denominated in a single underlying currency. For example, the **SNEKPOOL-USDC** token allows LPs to deposit USDC in order to mint a proportional amount of new **SNEKPOOL-USDC** tokens. All USDC-denominated *Betting Markets* use the funds locked inside the **SNEKPOOL-USDC** contract to pay out its winners. Conversely, all profits from losing bettors flow back into the **SNEKPOOL-USDC** contract. Here is an example to make this more concrete:
 
-> Suppose the **SNEKPOOL-USDC** Token currently has 1,000,000 USDC locked inside. Suppose also there is currently one open Betting Market: Los Angeles Lakers vs. Boston Celtics. From the current user action so far, there is:
+> Suppose the **SNEKPOOL-USDC** Token currently has 1,000,000 USDC locked inside. Suppose also there is currently one open Betting Market, Los Angeles Lakers vs. Boston Celtics Moneyline, with the following action:
 >
 > * Total 100,000 USDC placed on Los Angeles Lakers at +100 (American odds).
 > * Total 125,000 USDC placed on Boston Celtics at -150 (American odds).

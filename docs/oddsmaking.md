@@ -8,13 +8,13 @@ sidebar_position: 2
 
 ## Raw Data Feeds
 
-Lucky Snake takes a pragmatic approach to setting odds. Rather than set its own baseline odds, Lucky Snake sources raw data feeds from various betting *Markets* from established sportsbooks such as *Pinnacle Sports*, *Barstool*, *FanDuel*, *BetMGM*, *WynnBet*, and others. 
+Lucky Snake takes a pragmatic approach to setting odds. Rather than set its own baseline odds, Lucky Snake sources raw data feeds for betting *Markets* from established sportsbooks such as *Pinnacle Sports*, *Barstool*, *FanDuel*, *BetMGM*, *WynnBet*, and others. 
 
 ## Implied Probabilities
 
 The raw data feeds are aggregated and standardized into *Implied Probabilities*. You can learn more about the various ways to express odds, including *Implied Probabilities* [here](https://www.investopedia.com/articles/dictionary/042215/understand-math-behind-betting-odds-gambling.asp).
 
-Generally, sportsbooks include something called a *Vig* into their odds, which is a spread or commission on the odds and is usually how sportsbooks make money. TO extract the true *Implied Probability* each sports book is implicitly pricing, it is important to strip away the *Vig* to obtain each book's individual *De-Vigged Implied Probabilities*. Here is an example to work out the math:
+Generally, sportsbooks include something called a *Vig* into their odds, which is a spread or commission on the odds and is usually how sportsbooks make money. To extract the true *Implied Probability* each sports book is implicitly pricing, it is important to strip away the *Vig* to obtain each book's individual *De-Vigged Implied Probabilities*. Here is an example to work out the math:
 
 > Suppose an example moneyline bet of New England Patriots -200 vs New York Jets +170 (American odds). First we need to convert American odds to Implied Probabilities. Note the math is slightly different for favorites versus underdogs:
 >

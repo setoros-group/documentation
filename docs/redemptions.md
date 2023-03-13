@@ -1,4 +1,7 @@
 ---
+title: Lucky Snake
+description: Redemptions
+image: ../static/img/DARK_700_LOGO_CARD.png
 sidebar_position: 4
 ---
 

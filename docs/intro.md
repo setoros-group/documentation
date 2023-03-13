@@ -1,7 +1,4 @@
 ---
-title: Lucky Snake
-description: Intro
-image: "../static/img/DARK_700_LOGO_CARD.png"
 sidebar_position: 1
 slug: /
 ---
@@ -9,11 +6,11 @@ slug: /
 <head>
     <title>Lucky Snake</title>
     <meta name="title" property="og:title" content="Lucky Snake" />
-    <meta name="description" content="Lucky Snake | Intro" />
+    <meta name="description" content="Documentation | Intro" />
     <meta name="description" property="og:description" content="Intro" />
     <meta name="image" property="og:image" content="https://i.imgur.com/6qcqgRg.png" />
     <meta name="twitter:title" content="Lucky Snake" />
-    <meta name="twitter:description" content="Lucky Snake | Intro" />
+    <meta name="twitter:description" content="Documentation | Intro" />
     <meta name="twitter:image" content="https://i.imgur.com/6qcqgRg.png"/>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@luckysnakexyz" />

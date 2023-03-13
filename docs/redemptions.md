@@ -1,9 +1,19 @@
 ---
-title: Lucky Snake
-description: Redemptions
-image: ../static/img/DARK_700_LOGO_CARD.png
 sidebar_position: 4
 ---
+
+<head>
+    <title>Lucky Snake</title>
+    <meta name="title" property="og:title" content="Lucky Snake" />
+    <meta name="description" content="Documentation | Redemptions" />
+    <meta name="description" property="og:description" content="Intro" />
+    <meta name="image" property="og:image" content="https://i.imgur.com/6qcqgRg.png" />
+    <meta name="twitter:title" content="Lucky Snake" />
+    <meta name="twitter:description" content="Documentation | Redemptions" />
+    <meta name="twitter:image" content="https://i.imgur.com/6qcqgRg.png"/>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@luckysnakexyz" />
+</head>
 
 # LP Redemptions
 

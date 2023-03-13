@@ -6,6 +6,19 @@ sidebar_position: 1
 slug: /
 ---
 
+<head>
+    <title>Lucky Snake</title>
+    <meta name="title" property="og:title" content="Lucky Snake" />
+    <meta name="description" content="Lucky Snake | Intro" />
+    <meta name="description" property="og:description" content="Intro" />
+    <meta name="image" property="og:image" content="https://i.imgur.com/6qcqgRg.png" />
+    <meta name="twitter:title" content="Lucky Snake" />
+    <meta name="twitter:description" content="Lucky Snake | Intro" />
+    <meta name="twitter:image" content="https://i.imgur.com/6qcqgRg.png"/>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@luckysnakexyz" />
+</head>
+
 # Intro
 
 ---

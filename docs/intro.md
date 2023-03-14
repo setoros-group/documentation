@@ -7,7 +7,7 @@ slug: /
     <title>Lucky Snake</title>
     <meta name="title" property="og:title" content="Lucky Snake" />
     <meta name="description" content="Documentation | Intro" />
-    <meta name="description" property="og:description" content="Intro" />
+    <meta name="description" property="og:description" content="Documentation | Intro" />
     <meta name="image" property="og:image" content="https://i.imgur.com/6qcqgRg.png" />
     <meta name="twitter:title" content="Lucky Snake" />
     <meta name="twitter:description" content="Documentation | Intro" />

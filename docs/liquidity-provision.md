@@ -6,7 +6,7 @@ sidebar_position: 3
     <title>Lucky Snake</title>
     <meta name="title" property="og:title" content="Lucky Snake" />
     <meta name="description" content="Documentation | Liquidity Provision" />
-    <meta name="description" property="og:description" content="Intro" />
+    <meta name="description" property="og:description" content="Documentation | Liquidity Provision" />
     <meta name="image" property="og:image" content="https://i.imgur.com/6qcqgRg.png" />
     <meta name="twitter:title" content="Lucky Snake" />
     <meta name="twitter:description" content="Documentation | Liquidity Provision" />

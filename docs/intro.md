@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
+title: Intro
 ---
 
 <head>
@@ -15,8 +16,6 @@ slug: /
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@luckysnakexyz" />
 </head>
-
-# Intro
 
 ---
 

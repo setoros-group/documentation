@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+title: LP Redemptions
 ---
 
 <head>
@@ -14,8 +15,6 @@ sidebar_position: 4
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@luckysnakexyz" />
 </head>
-
-# LP Redemptions
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Oddsmaking
 ---
 
 <head>
@@ -14,8 +15,6 @@ sidebar_position: 2
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@luckysnakexyz" />
 </head>
-
-# Oddsmaking
 
 ---
 

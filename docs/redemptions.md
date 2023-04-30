@@ -4,23 +4,23 @@ title: LP Redemptions
 ---
 
 <head>
-    <title>Lucky Snake</title>
-    <meta name="title" property="og:title" content="Lucky Snake" />
-    <meta name="description" content="Documentation | Redemptions" />
-    <meta name="description" property="og:description" content="Documentation | Redemptions" />
-    <meta name="image" property="og:image" content="https://i.imgur.com/6qcqgRg.png" />
-    <meta name="twitter:title" content="Lucky Snake" />
-    <meta name="twitter:description" content="Documentation | Redemptions" />
-    <meta name="twitter:image" content="https://i.imgur.com/6qcqgRg.png"/>
+    <title>Setoros Protocol</title>
+    <meta name="title" property="og:title" content="Setoros Protocol" />
+    <meta name="description" content="Documentation | Intro" />
+    <meta name="description" property="og:description" content="Documentation | Intro" />
+    <meta name="image" property="og:image" content="https://i.imgur.com/7dbH48C.png" />
+    <meta name="twitter:title" content="Setoros Protocol" />
+    <meta name="twitter:description" content="Documentation | Intro" />
+    <meta name="twitter:image" content="https://i.imgur.com/7dbH48C.png"/>
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@luckysnakexyz" />
+    <meta name="twitter:site" content="@setoros" />
 </head>
 
 ---
 
 ## When Can LPs Redeem?
 
-In general, LPs may redeem their $SNEKPOOL LP tokens for the underlying anytime. However, there are certain circumstances where redemptions may be temporarily disabled.
+In general, LPs may redeem their $TOROPOOL LP tokens for the underlying anytime. However, there are certain circumstances where redemptions may be temporarily disabled.
 
 Consider the scenario of a large singular *Market* - think an event like the Superbowl or the World Cup - with a large sum of money riding on the outcome of the match. If LPs could redeem 100% of the time, the protocol could be exploited while the match is occuring. 
 
@@ -57,6 +57,6 @@ The *Exposure* of any given *Market* is defined as the maximum amount the protoc
 
 ## Disabled Redemptions
 
-The *Pending Exposure* for the $SNEKPOOL is defined as the sum of the exposure across all currently *Pending Markets*. This value represents the maximum amount that a malicious LP could potential withdraw last minute to avoid sharing in protocol losses.
+The *Pending Exposure* for the $TOROPOOL is defined as the sum of the exposure across all currently *Pending Markets*. This value represents the maximum amount that a malicious LP could potential withdraw last minute to avoid sharing in protocol losses.
 
 The protocol maintains a *MaxPendingExposure* parameter, so that if the current *Pending Exposure* exceeds this amount, all LP from the pool redemptions will be temporarily disabled. However, this is only a temporary measure, and once the offending *Pending Markets* with the highest *Exposure* officially announce their results to become *Closed Markets*, the *Pending Exposure* should drop, and redemptions will once again resume.

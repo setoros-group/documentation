@@ -4,23 +4,23 @@ title: Oddsmaking
 ---
 
 <head>
-    <title>Lucky Snake</title>
-    <meta name="title" property="og:title" content="Lucky Snake" />
-    <meta name="description" content="Documentation | Oddsmaking" />
-    <meta name="description" property="og:description" content="Documentation | Oddsmaking" />
-    <meta name="image" property="og:image" content="https://i.imgur.com/6qcqgRg.png" />
-    <meta name="twitter:title" content="Lucky Snake" />
-    <meta name="twitter:description" content="Documentation | Oddsmaking" />
-    <meta name="twitter:image" content="https://i.imgur.com/6qcqgRg.png"/>
+    <title>Setoros Protocol</title>
+    <meta name="title" property="og:title" content="Setoros Protocol" />
+    <meta name="description" content="Documentation | Intro" />
+    <meta name="description" property="og:description" content="Documentation | Intro" />
+    <meta name="image" property="og:image" content="https://i.imgur.com/7dbH48C.png" />
+    <meta name="twitter:title" content="Setoros Protocol" />
+    <meta name="twitter:description" content="Documentation | Intro" />
+    <meta name="twitter:image" content="https://i.imgur.com/7dbH48C.png"/>
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@luckysnakexyz" />
+    <meta name="twitter:site" content="@setoros" />
 </head>
 
 ---
 
 ## Raw Data Feeds
 
-Lucky Snake takes a pragmatic approach to setting odds. Rather than set its own baseline odds, Lucky Snake sources raw data feeds for betting *Markets* from established sportsbooks such as *Pinnacle Sports*, *Barstool*, *FanDuel*, *BetMGM*, *WynnBet*, and others. 
+Setoros takes a pragmatic approach to setting odds. Rather than set its own baseline odds, Setoros sources raw data feeds for betting *Markets* from established sportsbooks such as *Pinnacle Sports*, *Barstool*, *FanDuel*, *BetMGM*, *WynnBet*, and others. 
 
 ## Implied Probabilities
 
@@ -40,12 +40,12 @@ Generally, sportsbooks include something called a *Vig* into their odds, which i
 >
 > The De-Vigged Implied Probabilities now sum up to exactly 100%. It can be physically interpreted as the sports book implying a 64.29% chance that the New England Patriots will win, versus a 35.71% chance that the New York Jets will win.
 
-## Lucky Snake Odds
+## Setoros Odds
 
-Once the individual *De-Vigged Implied Probabilities* for each sports book have been obtained, Lucky Snake takes a weighted average blend of all the sources to obtain its own theoretical mid odds. A directional *Skew* in favor of one side or the other in the *Market* is then added onto the mid odds. The *Skew* is based on the existing bets made by users on the protocol. If all bettors favor one side of a *Market* on Lucky Snake, the protocol will *Skew* the odds in favor of the other side to incentivize users to balance the risk on the protocol. Finally, Lucky Snake adds its own *Vig*, set by smart contract parameter, to either side of the *Market* to obtain the final odds that users can execute against on the platform.
+Once the individual *De-Vigged Implied Probabilities* for each sports book have been obtained, Setoros takes a weighted average blend of all the sources to obtain its own theoretical mid odds. A directional *Skew* in favor of one side or the other in the *Market* is then added onto the mid odds. The *Skew* is based on the existing bets made by users on the protocol. If all bettors favor one side of a *Market* on Setoros, the protocol will *Skew* the odds in favor of the other side to incentivize users to balance the risk on the protocol. Finally, Setoros adds its own *Vig*, set by smart contract parameter, to either side of the *Market* to obtain the final odds that users can execute against on the platform.
 
 ## Data Feed Oracle
 
-To maintain pragmatic transparency, data regarding odds such as the raw *Implied Probabilities* for each individual sports book, as well as the end-user *Implied Probabilities* for Lucky Snake, are pushed periodically onto an oracle smart contract on the blockchain, both at standard intervals and also when the line moves by a minimum significant margin. 
+To maintain pragmatic transparency, data regarding odds such as the raw *Implied Probabilities* for each individual sports book, as well as the end-user *Implied Probabilities* for Setoros, are pushed periodically onto an oracle smart contract on the blockchain, both at standard intervals and also when the line moves by a minimum significant margin. 
 
-These odds data are recorded on the blockchain to ensure the protocol is pricing odds accurately and fairly. However, it is important to note that currently Lucky Snake uses a *private* oracle to publish these odds. Longer-term decentralization calls for the protocol to use a decentralized oracle such as Chainlink to obtain raw data feeds. This is a feature currently on the roadmap that the protocol will transition to over time.
+These odds data are recorded on the blockchain to ensure the protocol is pricing odds accurately and fairly. However, it is important to note that currently Setoros uses a *private* oracle to publish these odds. Longer-term decentralization calls for the protocol to use a decentralized oracle such as Chainlink to obtain raw data feeds. This is a feature currently on the roadmap that the protocol will transition to over time.

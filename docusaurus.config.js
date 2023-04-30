@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Lucky Snake',
+  title: 'Setoros Protocol',
   staticDirectories: ['static'],
   tagline: '',
-  url: 'https://docs.luckysnake.xyz',
+  url: 'https://docs.setoros.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'lucky-snake', // Usually your GitHub org/user name.
+  organizationName: 'setoros-group', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
 
   presets: [
@@ -45,9 +45,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Lucky Snake',
+        title: 'Setoros',
         logo: {
-          alt: 'Lucky Snake Logo',
+          alt: 'Setoros Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -85,11 +85,11 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/HmvPenvX5Q',
+                href: 'https://discord.gg/UgKNenDPBh',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/luckysnake',
+                href: 'https://twitter.com/setoros',
               },
             ],
           },
@@ -98,16 +98,16 @@ const config = {
             items: [
               {
                 label: 'Website',
-                to: 'https://luckysnake.xyz'
+                to: 'https://setoros.com'
               },
               {
                 label: 'Blog',
-                to: 'https://blog.luckysnake.xyz',
+                to: 'https://blog.setoros.com',
               }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Lucky Snake`,
+        copyright: `Copyright © ${new Date().getFullYear()} Setoros Group`,
       },
       prism: {
         theme: lightCodeTheme,

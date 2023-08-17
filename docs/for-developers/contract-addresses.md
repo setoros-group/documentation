@@ -23,5 +23,5 @@ title: Contract Addresses
 ## Arbitrum Goerli
 | Contract | Address |
 | -------- | ------- |
-| ToroAdmin | [0xDa562466c2B0Bd1ED56f1F9a3aA7d23a22C0F77C](https://goerli.arbiscan.io/address/0xDa562466c2B0Bd1ED56f1F9a3aA7d23a22C0F77C) |
-| SportOracle | [0xF2164eabaCC44ED198c6ac5599638e900C34aF35](https://goerli.arbiscan.io/address/0xF2164eabaCC44ED198c6ac5599638e900C34aF35) |
+| SetorosAdmin | [0x76e73f793A8a1Deae2E5655435d48b89308B26A0](https://goerli.arbiscan.io/address/0x76e73f793A8a1Deae2E5655435d48b89308B26A0) |
+| SportOracle | [0x228C274268AEAdBD0ac233E4a8614259571cD639](https://goerli.arbiscan.io/address/0x228C274268AEAdBD0ac233E4a8614259571cD639) |

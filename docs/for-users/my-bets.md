@@ -3,6 +3,19 @@ sidebar_position: 2
 title: My Bets
 ---
 
+<head>
+    <title>Documentation | My Bets</title>
+    <meta name="title" property="og:title" content="Documentation | My Bets" />
+    <meta name="description" content="Documentation | My Bets" />
+    <meta name="description" property="og:description" content="Documentation | My Bets" />
+    <meta name="image" property="og:image" content="https://i.imgur.com/HE5eURN.png" />
+    <meta name="twitter:title" content="Setoros Protocol" />
+    <meta name="twitter:description" content="Documentation | My Bets" />
+    <meta name="twitter:image" content="https://i.imgur.com/HE5eURN.png"/>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@setoros" />
+</head>
+
 # My Bets
 
 ## My Bets Page

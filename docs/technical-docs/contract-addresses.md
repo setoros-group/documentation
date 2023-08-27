@@ -4,13 +4,13 @@ title: Contract Addresses
 ---
 
 <head>
-    <title>Setoros Protocol</title>
-    <meta name="title" property="og:title" content="Setoros Protocol" />
-    <meta name="description" content="Documentation | Intro" />
-    <meta name="description" property="og:description" content="Documentation | Intro" />
+    <title>Documentation | Contract Addresses</title>
+    <meta name="title" property="og:title" content="Documentation | Contract Addresses" />
+    <meta name="description" content="Documentation | Contract Addresses" />
+    <meta name="description" property="og:description" content="Documentation | Contract Addresses" />
     <meta name="image" property="og:image" content="https://i.imgur.com/HE5eURN.png" />
     <meta name="twitter:title" content="Setoros Protocol" />
-    <meta name="twitter:description" content="Documentation | Intro" />
+    <meta name="twitter:description" content="Documentation | Contract Addresses" />
     <meta name="twitter:image" content="https://i.imgur.com/HE5eURN.png"/>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@setoros" />

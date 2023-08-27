@@ -5,8 +5,8 @@ title: Intro
 ---
 
 <head>
-    <title>Setoros Protocol</title>
-    <meta name="title" property="og:title" content="Setoros Protocol" />
+    <title>Documentation | Intro</title>
+    <meta name="title" property="og:title" content="Documentation | Intro" />
     <meta name="description" content="Documentation | Intro" />
     <meta name="description" property="og:description" content="Documentation | Intro" />
     <meta name="image" property="og:image" content="https://i.imgur.com/HE5eURN.png" />

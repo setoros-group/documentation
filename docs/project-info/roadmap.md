@@ -8,10 +8,10 @@ title: Roadmap
     <meta name="title" property="og:title" content="Documentation | Roadmap" />
     <meta name="description" content="Documentation | Roadmap" />
     <meta name="description" property="og:description" content="Documentation | Roadmap" />
-    <meta name="image" property="og:image" content="https://i.imgur.com/HE5eURN.png" />
+    <meta name="image" property="og:image" content="https://i.imgur.com/7fhonTf.png" />
     <meta name="twitter:title" content="Setoros Protocol" />
     <meta name="twitter:description" content="Documentation | Roadmap" />
-    <meta name="twitter:image" content="https://i.imgur.com/HE5eURN.png"/>
+    <meta name="twitter:image" content="https://i.imgur.com/7fhonTf.png"/>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@setoros" />
 </head>

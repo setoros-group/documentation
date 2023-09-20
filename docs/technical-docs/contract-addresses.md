@@ -20,11 +20,11 @@ title: Contract Addresses
 
 # Contract Addresses
 
-## Arbitrum Goerli
+## Base Mainnet
 | Contract | Address |
 | -------- | ------- |
-| SetorosAdmin | [0x76e73f793A8a1Deae2E5655435d48b89308B26A0](https://goerli.arbiscan.io/address/0x76e73f793A8a1Deae2E5655435d48b89308B26A0) |
-| SportOracle | [0x228C274268AEAdBD0ac233E4a8614259571cD639](https://goerli.arbiscan.io/address/0x228C274268AEAdBD0ac233E4a8614259571cD639) |
+| SetorosAdmin | [0x9fE1B9ec4F564F07a14C118dDCc58AC44129e272](https://basescan.org/address/0x9fE1B9ec4F564F07a14C118dDCc58AC44129e272) |
+| SportOracle | [0xBcFf9B10BBDD04F648A24bbF59a1336B8Ace93A9](https://basescan.org/address/0xBcFf9B10BBDD04F648A24bbF59a1336B8Ace93A9) |
 
 ## Base Goerli
 | Contract | Address |

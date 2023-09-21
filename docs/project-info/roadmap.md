@@ -31,11 +31,16 @@ The Setoros roadmap serves as a structured schedule of product and market milest
 
 # 2023 Q4
 * ✅ Mobile-compatible web app launch
-* 🛠️ Setoros LIVE as the FIRST decentralized sportsbetting platform on Base Network!
+* ✅ Setoros LIVE as the FIRST decentralized sportsbook on Base Network!
 * 🛠️ Setoros native token $SET public token sale
 * 🛠️ $SET token TGE
 
 # 2024 Q1
 * 🛠️ $SET token staking module launch
+* 🛠️ Expansion to more sport types and leagues
 * 🛠️ Permissionless liquidity provision as the house enabled
+
+# 2024 And Beyond
 * 🛠️ 💰 Revenue share 💰 turned on for staked $SET holders
+* 🛠️ Native multichain/cross-chain compatibility
+* 🛠️ Expansion into broader prediction market space

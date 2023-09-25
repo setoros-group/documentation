@@ -29,5 +29,5 @@ title: Contract Addresses
 ## Base Goerli
 | Contract | Address |
 | -------- | ------- |
-| SetorosAdmin | [0xB45e70F14C4b766bE882b46a488B7721Dd08821C](https://goerli.basescan.org/address/0xB45e70F14C4b766bE882b46a488B7721Dd08821C) |
-| SportOracle | [0xe3d971e1ac9A21bbCA34A83444B05508B9168c90](https://goerli.basescan.org/address/0xe3d971e1ac9A21bbCA34A83444B05508B9168c90) |
+| SetorosAdmin | [0xd3568E12c5d1cb18336d37e0421c8c10c6BdC0B0](https://goerli.basescan.org/address/0xd3568E12c5d1cb18336d37e0421c8c10c6BdC0B0) |
+| SportOracle | [0xE52970eb1EA56Ee20C19F2f5a32b245fa316349d](https://goerli.basescan.org/address/0xE52970eb1EA56Ee20C19F2f5a32b245fa316349d) |
